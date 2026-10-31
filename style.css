@@ -1,14 +1,14 @@
 #Title {
-  font-family: 'Inconsolata', monospace;
+  font-family:'Consolata', Consolata, monospace;
   font-weight: 900;
   font-size: 450%;
   margin-top: 1%;
   text-align: center;
 }
 #Letters {
-  font-family: 'Inconsolata', monospace;
+  font-family: 'Consolata', Comsolata, monospace;
   font-weight: 900;
   font-size: 200%;
   text-align: center;
-  margin-top: -5%;
+  margin-top: -10%;
 }
